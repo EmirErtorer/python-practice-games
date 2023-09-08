@@ -1,5 +1,6 @@
-# python-practice-games
-Simple games made without OOP concepts to familiarize myself with Pygame
+## Description
+This repository contains a collection of simple games (made without classes and OOP concepts) created using Python and the Pygame library.
+These games serve as educational projects that helped me familiarize myself with the Pygame library. 
 
 ## Installation
 Clone or download the repository to your local machine.
