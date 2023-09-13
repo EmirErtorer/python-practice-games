@@ -1,6 +1,6 @@
 ## Description
 This repository contains a collection of simple games (made without classes and OOP concepts) created using Python and the Pygame library.
-These games serve as educational projects that helped me familiarize myself with the Pygame library. 
+These games serve as educational projects that helped me familiarize myself with the Pygame library with the help of an online tutorial. 
 
 ## Installation
 Clone or download the repository to your local machine.
